@@ -1,0 +1,7 @@
+[
+  { "id": "about",   "label": "About" },
+  { "id": "college", "label": "Colleges", "lazy": false },
+  { "id": "services","label": "Services" },
+  { "id": "team",    "label": "Team" },
+  { "id": "contact", "label": "Contact" }
+]
